@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.books {
+  background-color: beige;
+  padding: 50px;
+}
+
+.roadtrip {
+  background-color: antiquewhite;
+  padding: 50px;
+}
+
+.music {
+  background-color: thistle;
+  padding: 50px;
+}
